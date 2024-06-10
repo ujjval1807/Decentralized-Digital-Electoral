@@ -1,0 +1,24 @@
+{
+    "address": [
+        {
+            "id": 1,
+            "address": "0x94354399311453C2647d99caC7F560E850Ad5e86"
+        },
+        {
+            "id": 2,
+            "address": "0x35e912b6f104ef7d862eCe58ab76460D496abb92"
+        },
+        {
+            "id": 3,
+            "address": "0x3Ca94D0C55dC1bC4b5dD5CDB724F8c32d633723e"
+        },
+        {
+            "id": 4,
+            "address": "0xb359ea75a0c7421ccC831Bb48771dB5e3B70654A"
+        },
+        {
+            "id": 5,
+            "address": "0x0B400Bb4Aa83699EDB0CCE98a4b9777076A4E0c1"
+        }
+    ]
+}
